@@ -1,4 +1,5 @@
 run(function()
+
     local texture_pack: table = {["Enabled"] = false};
 
     local texture_pack_color: table = {["Hue"] = 0, ["Sat"] = 0, ["Value"] = 0};
